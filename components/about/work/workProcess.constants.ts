@@ -48,4 +48,4 @@ export const WORK_PROCESS_ROTATING_TEXTS: string[] = [
 
 export const WORK_PROCESS_TOTAL_WORDS = 2;
 
-export const PROCESS_COUNT = '0(3)';
+export const PROCESS_COUNT = `(${PROCESS_STEPS.length})`;
